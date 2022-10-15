@@ -1,0 +1,43 @@
+<html>
+ <p><a href = "https://www.amazon.fr/Nike-Force-Chaussures-Gar%C3%A7on-Blanco/dp/B00ARBALA6/ref=sr_1_2?adgrpid=1350201215844098&hvadid=84387997921375&hvbmt=be&hvdev=c&hvlocphy=126790&hvnetw=o&hvqmt=e&hvtargid=kwd-84388102893759%3Aloc-66&hydadcr=26796_2632574&keywords=chaussure+nike+amazon&qid=1665765160&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-2/p"
+      style = "color: rgb(0, 113, 133);"  target = "_blank" > Back to Amazon
+    
+    </a> </p>
+
+    <style>
+
+    .text-text{
+        font-size : 25px; 
+        font-weight : bold;
+        color : black;
+
+
+    }
+
+    .stock{
+        color : green;
+        font-weight : bold;
+    }
+
+    .add{
+        background-color: rgb(255, 216, 20);
+        color :black;
+        height :  25px;
+        width: 100px;
+        border : none;
+        border-radius: 10px;
+
+
+    }
+    </style>
+    
+    <p class = "text-text">Nike Black Running Shoes</p>
+    <p class = "stock" > $39- in stock</p>
+    <p>Free delivery tomorrow.</p>
+    <button class = "add" >Add to cart</button>
+    <button class = "add" >Buy now</button>
+    
+    
+        
+
+</html>
